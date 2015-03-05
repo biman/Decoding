@@ -1,0 +1,292 @@
+Aligning...
+NOTE: TM logprobs may be positive since they do not include segmentation
+SENTENCE PAIR:
+honorables sénateurs , que se est - il passé ici , mardi dernier ?
+honourable senators , what happened here , last Tuesday ?
+TOTAL LM LOGPROB: -25.566404
+..........
+TOTAL TM LOGPROB: 0.713485
+SENTENCE PAIR:
+un Comité de sélection a été constitué .
+a selection committee was achievement .
+TOTAL LM LOGPROB: -15.185380
+......
+TOTAL TM LOGPROB: -1.531946
+SENTENCE PAIR:
+je ai assisté hier à la première réunion de ce comité .
+yesterday I attended the first to meeting of the committee .
+TOTAL LM LOGPROB: -19.217276
+...........
+TOTAL TM LOGPROB: 0.165875
+SENTENCE PAIR:
+et je me attendais à ce que le comité avoue que il ne savait trop quoi faire de les sénateurs indépendants .
+and I am surprised that the committee admits that it is really know what to do with the Senate independent .
+TOTAL LM LOGPROB: -34.237957
+.....................
+TOTAL TM LOGPROB: -6.232691
+SENTENCE PAIR:
+ce qui ne me préoccupe pas tellement pour le instant .
+that will not so concerned about at this time .
+TOTAL LM LOGPROB: -15.851332
+..........
+TOTAL TM LOGPROB: -1.942703
+SENTENCE PAIR:
+les membres de le Comité de sélection peuvent avoir une certaine incidence .
+the selection committee can show some impact .
+TOTAL LM LOGPROB: -17.776348
+........
+TOTAL TM LOGPROB: -1.589896
+SENTENCE PAIR:
+sur les travaux que entreprendra un sénateur à le cours de les deux prochaines années .
+on the work that undertaking a senator over the next two years .
+TOTAL LM LOGPROB: -24.030417
+.............
+TOTAL TM LOGPROB: -0.295514
+SENTENCE PAIR:
+il se agit de un comité important , puisque , en principe , ces neuf sénateurs déterminent à quel comité siégeront certains sénateurs .
+it is an important committee , as in principle , these new senators to determine what sit committee some senators .
+TOTAL LM LOGPROB: -46.580158
+.....................
+TOTAL TM LOGPROB: -3.688193
+SENTENCE PAIR:
+je me suis donc présenté à la séance de le comité de hier pour constater que un de les neuf sénateurs était absent .
+i am therefore presented to the sitting of the committee to yesterday to realize that one of the Senate nine was indeed .
+TOTAL LM LOGPROB: -43.708103
+.......................
+TOTAL TM LOGPROB: -1.034886
+SENTENCE PAIR:
+il avait envoyé un remplaçant .
+it was sent a replacement .
+TOTAL LM LOGPROB: -12.360269
+......
+TOTAL TM LOGPROB: -0.162746
+SENTENCE PAIR:
+honorables sénateurs , je ne nommerai personne .
+honourable senators name , I do not know .
+TOTAL LM LOGPROB: -19.778944
+.........
+TOTAL TM LOGPROB: -3.047430
+SENTENCE PAIR:
+vous voyez donc à quel point je suis gentil , ne est - ce pas ?
+you will see that I am kind ' t it ?
+TOTAL LM LOGPROB: -20.305214
+...........
+TOTAL TM LOGPROB: -3.151369
+SENTENCE PAIR:
+les sénateurs devront faire leurs propres recherches pour trouver qui était en faute .
+the Senate will have their own research to find that had been fault .
+TOTAL LM LOGPROB: -29.408863
+..............
+TOTAL TM LOGPROB: -0.778405
+SENTENCE PAIR:
+lorsque une personne accepte un travail , elle doit le accomplir .
+when one agree , a job that it should do .
+TOTAL LM LOGPROB: -20.802824
+...........
+TOTAL TM LOGPROB: -5.035025
+SENTENCE PAIR:
+les femmes qui siègent à le Sénat ont prouvé .
+the women who are sitting in the Senate have proven .
+TOTAL LM LOGPROB: -19.206185
+...........
+TOTAL TM LOGPROB: -0.287504
+SENTENCE PAIR:
+elles remplissaient leur devoir beaucoup mieux que la majorité de les hommes à le Sénat .
+they have remplissaient have much more that the majority of the men in the Senate .
+TOTAL LM LOGPROB: -30.128374
+................
+TOTAL TM LOGPROB: -1.683776
+SENTENCE PAIR:
+je me souviens de les séances que a tenues le sous - comité de les anciens combattants en février 1998 .
+i remember as the sessions held that the committee to the veterans of February in 1998 .
+TOTAL LM LOGPROB: -35.597010
+.................
+TOTAL TM LOGPROB: -2.734698
+SENTENCE PAIR:
+Ni le Sénat ni la Chambre de les communes ne siégeait à ce moment - là .
+the Senate Ni or sitting in the House of Commons do not the time .
+TOTAL LM LOGPROB: -27.434507
+...............
+TOTAL TM LOGPROB: 0.452040
+SENTENCE PAIR:
+trois sénateurs libéraux ont assisté à les délibérations de le comité , tous de les femmes .
+they sat in the proceedings of the committee , all three senators of women .
+TOTAL LM LOGPROB: -29.000649
+...............
+TOTAL TM LOGPROB: -0.191407
+SENTENCE PAIR:
+les dirigeants de le Sénat ne ont pu trouver un homme pour siéger à ce comité .
+the leadership of the Senate could not find a person to the committee .
+TOTAL LM LOGPROB: -23.898306
+..............
+TOTAL TM LOGPROB: -1.306643
+SENTENCE PAIR:
+je pourrais vous citer , mot pour mot , ce que le honorable sénateur Carstairs a répondu à la question que je lui ai posée .
+i could cite talk , talk to , the hon. senator Carstairs took answer the question I asked .
+TOTAL LM LOGPROB: -34.593093
+...................
+TOTAL TM LOGPROB: -5.073970
+SENTENCE PAIR:
+je lui ai demandé : « Quels étaient les critères appliqués ? »
+i asked him : " Quels were the criteria are as follows ? "
+TOTAL LM LOGPROB: -28.971125
+..............
+TOTAL TM LOGPROB: 0.422687
+SENTENCE PAIR:
+elle a déclaré que elle était la première à aborder la question de la représentation de les femmes dans un rapport .
+she said that it was the first to address the representation of women in a report .
+TOTAL LM LOGPROB: -28.086877
+.................
+TOTAL TM LOGPROB: -0.972826
+SENTENCE PAIR:
+que elle avait rédigé sur les associations parlementaires en 1993 .
+that it was struck by the parliamentary associations in 1993 .
+TOTAL LM LOGPROB: -18.844788
+...........
+TOTAL TM LOGPROB: -3.651941
+SENTENCE PAIR:
+Les délégations à le époque étaient formées uniquement de hommes .
+shall delegations at the time was only formées of men .
+TOTAL LM LOGPROB: -31.502823
+...........
+TOTAL TM LOGPROB: -2.408030
+SENTENCE PAIR:
+À ce sujet , je rappelle que je ai été remplacé par le sénateur Finestone pendant quelques années .
+this is in this regard , I have been replaced by Senator Finestone for a number of years .
+TOTAL LM LOGPROB: -30.023591
+...................
+TOTAL TM LOGPROB: -0.540477
+SENTENCE PAIR:
+toutefois , je attends encore le occasion de réintégrer mon association préférée .
+however , I will look back the opportunity to my association preferred .
+TOTAL LM LOGPROB: -25.957212
+.............
+TOTAL TM LOGPROB: -2.650985
+SENTENCE PAIR:
+honorables sénateurs , je ne sais pas comment ni quand la Chambre prendra une décision à le sujet de ces deux rapports .
+honourable senators , I do not know how or when the House will be decision about these two reports .
+TOTAL LM LOGPROB: -40.709137
+....................
+TOTAL TM LOGPROB: 1.493794
+SENTENCE PAIR:
+chaque fois que les sénateurs sont interviewés à la télévision .
+every time the Senate that is on television verdict .
+TOTAL LM LOGPROB: -22.048580
+..........
+TOTAL TM LOGPROB: -2.246764
+SENTENCE PAIR:
+ou interrogés par un groupe de étudiants , de journalistes ou autres .
+wondered or by a group of students , from journalists or other .
+TOTAL LM LOGPROB: -31.774718
+.............
+TOTAL TM LOGPROB: 0.089540
+SENTENCE PAIR:
+que disons - nous ?
+that if we do ?
+TOTAL LM LOGPROB: -8.285068
+.....
+TOTAL TM LOGPROB: -1.367750
+SENTENCE PAIR:
+ce est vrai , et je y crois .
+it is true , I believe it .
+TOTAL LM LOGPROB: -9.957294
+........
+TOTAL TM LOGPROB: -1.479368
+SENTENCE PAIR:
+toutefois , cela devrait se traduire dans les faits .
+however , it should be translated in fact .
+TOTAL LM LOGPROB: -15.413991
+.........
+TOTAL TM LOGPROB: -0.425484
+SENTENCE PAIR:
+je ne crois pas à la substitution .
+i do not believe in the alternative .
+TOTAL LM LOGPROB: -10.669427
+........
+TOTAL TM LOGPROB: -1.598738
+SENTENCE PAIR:
+si un sénateur accepte un poste à le sein de un comité , il ou elle devrait participer à toutes les réunions prévues .
+if a senator accept this position in a committee , he or she should participate in any provided meetings .
+TOTAL LM LOGPROB: -44.259523
+....................
+TOTAL TM LOGPROB: -2.021799
+SENTENCE PAIR:
+nous ne sommes pas de les députés auxquels on dit dans les corridors :
+we are not the members of the words in which the corridors :
+TOTAL LM LOGPROB: -24.084940
+.............
+TOTAL TM LOGPROB: -0.025533
+SENTENCE PAIR:
+« Présentez - vous à le comité aujourd' hui et , après deux ans de études , il y aura un vote final en comité . »
+" Présentez do you today and in committee , after two years of education , there is a final question in committee '' .
+TOTAL LM LOGPROB: -49.877907
+........................
+TOTAL TM LOGPROB: -0.912222
+SENTENCE PAIR:
+ils ne savent même pas ce sur quoi ils se prononcent , mais ils lèvent la main lorsque leurs dirigeants lèvent la leur .
+they do not even know what they are viewed stand , they came to power when their stand to them .
+TOTAL LM LOGPROB: -39.315453
+.....................
+TOTAL TM LOGPROB: -4.023134
+SENTENCE PAIR:
+ils ne savent absolument pas ce qui se est passé .
+no they do not know what happened .
+TOTAL LM LOGPROB: -11.937207
+........
+TOTAL TM LOGPROB: -1.556892
+SENTENCE PAIR:
+honorables sénateurs , les mots « continuité » et « dévouement » sont à la mode dans nos discours .
+honourable senators the words " and " and " continuité dedication " is the way in our speech .
+TOTAL LM LOGPROB: -46.363917
+...................
+TOTAL TM LOGPROB: -1.545878
+SENTENCE PAIR:
+À le cours de les deux prochaines semaines , commençons à réfléchir à la façon dont nous allons aborder la situation de les sénateurs indépendants .
+over the next two weeks , starting to reflect on the way we will address the independent senators .
+TOTAL LM LOGPROB: -34.459767
+...................
+TOTAL TM LOGPROB: -1.290137
+SENTENCE PAIR:
+si nous ne le faisons pas , je créerai mon propre comité de parlementaires qui se intéressent à les affaires internationales .
+if we do not do that , I créerai my own committee of Parliament who are interested in the world affairs .
+TOTAL LM LOGPROB: -40.927165
+......................
+TOTAL TM LOGPROB: -0.807931
+SENTENCE PAIR:
+personne ne peut nous en priver .
+no one can we try to .
+TOTAL LM LOGPROB: -11.832469
+.......
+TOTAL TM LOGPROB: -2.254787
+SENTENCE PAIR:
+son Honneur le Président :
+the Honour the Speaker :
+TOTAL LM LOGPROB: -12.744371
+.....
+TOTAL TM LOGPROB: -0.438368
+SENTENCE PAIR:
+si aucun autre honorable sénateur ne désire prendre la parole , vous plaît - il , honorables sénateurs , de adopter la motion ?
+if any other hon. Senator wishes to speak , do you , is it the pleasure honourable senators , to adopt the motion ?
+TOTAL LM LOGPROB: -47.616622
+........................
+TOTAL TM LOGPROB: 0.285879
+SENTENCE PAIR:
+de les voix :
+some hon. members :
+TOTAL LM LOGPROB: -2.473790
+....
+TOTAL TM LOGPROB: 0.332712
+SENTENCE PAIR:
+de accord .
+in agreement .
+TOTAL LM LOGPROB: -5.823751
+...
+TOTAL TM LOGPROB: 0.020604
+SENTENCE PAIR:
+( la motion est adoptée , et le rapport est adopté . )
+( motions deemed adopted , the report and agreed to )
+TOTAL LM LOGPROB: -13.596412
+...........
+TOTAL TM LOGPROB: 0.212423
+
+Total corpus log probability (LM+TM): -1300.024347
